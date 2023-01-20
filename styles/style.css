@@ -9,6 +9,15 @@
 .toggle-btn{
     border: 3px solid white;
 }
+
+.btn-news{
+    max-width: 170px;
+}
+
+.btn-news:hover{
+    color: white;
+}
+
 .user{
     width: 150px;
 }
@@ -24,3 +33,4 @@
 hr{
     width: 7%;
 }
+
