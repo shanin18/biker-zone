@@ -1,13 +1,10 @@
 #header{
     background-image: url(../images/banner.png), url(../images/grediant.png);
-    height: 100vh;
+    height: auto;
+    /* min-height: 100vh; */
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: multiply;
-}
-
-.toggle-btn{
-    border: 3px solid white;
 }
 
 .btn-news{
